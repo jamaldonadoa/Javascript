@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Declare age variable",
+      "status": "passed"
+    },
+    {
+      "title": "Testing with age = 40, and the console.log() should print 50",
+      "status": "passed"
+    }
+  ]
+}
