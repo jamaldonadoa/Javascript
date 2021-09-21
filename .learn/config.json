@@ -43,7 +43,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
-    "session": 1016563369467384800,
+    "session": 2811358662952503300,
     "exercises": [
         {
             "position": 0,
@@ -332,7 +332,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "app.js",
+            "entry": "exercises/09-Calling-your-first-function/app.js",
             "title": "09-Calling-your-first-function",
             "graded": true,
             "files": [
@@ -429,7 +429,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 11,
@@ -440,7 +440,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/12-Your-first-if/app.js",
+            "entry": "app.js",
             "title": "12-Your-first-if",
             "graded": true,
             "files": [
@@ -465,7 +465,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 12,
@@ -476,7 +476,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/13-How-much-the-wedding-costs/app.js",
+            "entry": "app.js",
             "title": "13-How-much-the-wedding-costs",
             "graded": true,
             "files": [
@@ -501,7 +501,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 13,
@@ -512,7 +512,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/14-Your-first-switch/app.js",
+            "entry": "app.js",
             "title": "14-Your-first-switch",
             "graded": true,
             "files": [

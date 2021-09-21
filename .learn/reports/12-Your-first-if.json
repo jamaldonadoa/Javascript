@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Trying with 60",
+      "status": "passed"
+    },
+    {
+      "title": "Your algorithm should use console.log at least one time, if you believe you are using it make sure it's not being conditionally ignored",
+      "status": "passed"
+    }
+  ]
+}

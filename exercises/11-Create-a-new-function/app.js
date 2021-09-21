@@ -2,6 +2,11 @@
 
 // Declare your function here
 
-return Math.floor((Math.random() * 10) + 1)
+function generateRandom() {
+    let numero = Math.floor((Math.random() * 10))
+    return numero
+}
+
+console.log(generateRandom())
 
 
