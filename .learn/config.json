@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://jade-wombat-6y82te07.ws-us15.gitpod.io",
+        "address": "https://jade-wombat-6y82te07.ws-us17.gitpod.io",
         "editor": {
             "mode": "preview",
             "agent": "gitpod",
@@ -11,7 +11,7 @@
         "configPath": "learn.json",
         "outputPath": ".learn/dist",
         "publicPath": "/preview",
-        "publicUrl": "https://3000-jade-wombat-6y82te07.ws-us15.gitpod.io",
+        "publicUrl": "https://3000-jade-wombat-6y82te07.ws-us17.gitpod.io",
         "grading": "isolated",
         "exercisesPath": "./exercises",
         "webpackTemplate": null,
@@ -31,7 +31,7 @@
         },
         "translations": []
     },
-    "currentExercise": null,
+    "currentExercise": "25-Javascript-Objects",
     "slug": "javascript-beginner-exercises-tutorial",
     "grading": "isolated",
     "language": "node",
@@ -43,7 +43,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
-    "session": 2811358662952503300,
+    "session": 8272723566983171000,
     "exercises": [
         {
             "position": 0,
@@ -440,7 +440,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "app.js",
+            "entry": "exercises/12-Your-first-if/app.js",
             "title": "12-Your-first-if",
             "graded": true,
             "files": [
@@ -476,7 +476,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "app.js",
+            "entry": "exercises/13-How-much-the-wedding-costs/app.js",
             "title": "13-How-much-the-wedding-costs",
             "graded": true,
             "files": [
@@ -512,7 +512,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "app.js",
+            "entry": "exercises/14-Your-first-switch/app.js",
             "title": "14-Your-first-switch",
             "graded": true,
             "files": [
@@ -537,7 +537,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 14,
@@ -573,7 +573,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
@@ -609,7 +609,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
@@ -645,7 +645,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 17,
@@ -681,7 +681,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 18,
@@ -717,7 +717,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 19,
@@ -753,7 +753,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 20,
@@ -789,7 +789,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 21,
@@ -825,7 +825,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 22,
@@ -861,7 +861,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 23,
