@@ -31,7 +31,7 @@
         },
         "translations": []
     },
-    "currentExercise": "25-Javascript-Objects",
+    "currentExercise": null,
     "slug": "javascript-beginner-exercises-tutorial",
     "grading": "isolated",
     "language": "node",
@@ -908,7 +908,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/25-Javascript-Objects/app.js",
+            "entry": "app.js",
             "title": "25-Javascript-Objects",
             "graded": true,
             "files": [
